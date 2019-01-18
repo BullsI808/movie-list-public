@@ -1,0 +1,24 @@
+{
+  "name": "movie-list-public",
+  "version": "1.0.0",
+  "description": "[Advanced] AWS, S3, Api-Gatway, Lambda, RDS, Serverless - Intro full stack project using amazon rds",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BullsI808/movie-list-public.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BullsI808/movie-list-public/issues"
+  },
+  "homepage": "https://github.com/BullsI808/movie-list-public#readme",
+  "dependencies": {
+    "pg": "^7.7.1",
+    "pg-pool": "^2.0.6"
+  }
+}
